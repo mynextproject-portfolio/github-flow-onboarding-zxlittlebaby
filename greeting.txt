@@ -1,6 +1,8 @@
-Hello, Developer!
+Hello, Zxlittlebaby!
 
 Welcome to your first GitHub workflow project.
 
 This is a simple greeting file that you'll personalize
 as you practice the professional development workflow.
+
+I'm excited to learn the complete GitHub workflow!
